@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculadoraGaelChin_23AM/1.0.0": {
+        "runtime": {
+          "CalculadoraGaelChin_23AM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraGaelChin_23AM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
